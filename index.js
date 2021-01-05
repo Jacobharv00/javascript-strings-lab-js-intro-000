@@ -8,7 +8,7 @@ var greetSpecialGuest = "Hello, " + specialGuest + "!";
 
 var topic = "space";
 
-var conversation = `Let's talk about ${topic}`;
+var conversation = `Let's talk about ${topic}.`
 
 //-spac
 //     +Let's talk about space.
